@@ -1,6 +1,6 @@
 ### Hello World👋 I'm Gabriel, a Web Developer.
 
-- 😉 Looking for an job ...
+- 😉 Looking for a job ...
 
 <hr/>
 
