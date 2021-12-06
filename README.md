@@ -1,7 +1,5 @@
 ### Hello World👋 I'm Gabriel, a Web Developer.
 
-- 😉 Looking for an opportunity...
-
 <hr/>
 
 <div align="center">
