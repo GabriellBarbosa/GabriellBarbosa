@@ -6,7 +6,7 @@
     <li>Refactoring&#129352;</li>
   </ul>
 </div>
-<hr/>
+
 <div>
   <p><b>Skills:</b></p>
   <ul>
@@ -14,7 +14,7 @@
     <li>Front-End Development</li>
   </ul>
 </div>
-<hr/>
+
 <div>
   <p><b>Tools:</b></p>
   <ul>
