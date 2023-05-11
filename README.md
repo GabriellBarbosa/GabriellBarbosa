@@ -1,5 +1,5 @@
 <h2>Hello, i'm a Front-End Developer</h2>
-<hr/>
+
 <div>
   <p><b>Favorite books:</b></p>
   <ul>
