@@ -1,7 +1,25 @@
-<div align="center">
-  <a href="https://github.com/gabriellbarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellbarbosa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellbarbosa&layout=compact&langs_count=7&theme=darcula"/>
+<div>
+  <p><b>Favorite books:</b></p>
+  <ul>
+    <li>Clean Code&#129351;</li>
+    <li>Refactoring&#129352;</li>
+  </ul>
+</div>
+<div>
+  <p><b>Skills:</b></p>
+  <ul>
+    <li>TDD</li>
+    <li>Front-End Development</li>
+  </ul>
+</div>
+<div>
+  <p><b>Tools:</b></p>
+  <ul>
+    <li>Angular</li>
+    <li>React</li>
+    <li>Typescript</li>
+    <li>SCSS</li>
+  </ul>
 </div>
 <hr/>
 <div style="display: inline_block" align="center">
