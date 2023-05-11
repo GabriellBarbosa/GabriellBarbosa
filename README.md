@@ -1,4 +1,4 @@
-<h2>Hi! i'm a Front-End Developer.</h2>
+<h2>Hi! I'm a Front-End Developer.</h2>
 <div>
   <p><b>Favorite books:</b></p>
   <ul>
