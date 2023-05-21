@@ -20,7 +20,7 @@
   <ul>
     <li>Angular</li>
     <li>React</li>
-    <li>Typescript</li>
+    <li>TypeScript</li>
     <li>SCSS</li>
   </ul>
 </div>
