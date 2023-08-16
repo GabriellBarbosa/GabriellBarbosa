@@ -4,6 +4,7 @@
   <ul>
     <li>Clean Code&#129351;</li>
     <li>Refactoring&#129352;</li>
+    <li>Clean Agile: Back to Basics&#129353;</li>
   </ul>
 </div>
 
