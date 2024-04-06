@@ -24,5 +24,6 @@
     <li>React</li>
     <li>TypeScript</li>
     <li>SCSS</li>
+    <li>PHP</li>
   </ul>
 </div>
