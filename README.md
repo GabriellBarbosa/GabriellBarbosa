@@ -13,7 +13,8 @@
   <p><b>Skills:</b></p>
   <ul>
     <li>TDD</li>
-    <li>Front-End Development</li>
+    <li>Front-end Development</li>
+    <li>Back-end Development</li>
   </ul>
 </div>
 
