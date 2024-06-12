@@ -5,7 +5,7 @@
     <li>Clean Code&#129351;</li>
     <li>Refactoring&#129352;</li>
     <li>Domain-Driven Design&#129353;</li>
-    <li>Clean Agile: Back to Basics</li>
+    <li>Clean Agile: Back to Basics&👌</li>
   </ul>
 </div>
 
