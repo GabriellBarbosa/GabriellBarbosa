@@ -1,4 +1,4 @@
-<h2>Hi! I'm a Front-end developer.</h2>
+<h2>Hi! I'm a front-end developer.</h2>
 <div>
   <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
