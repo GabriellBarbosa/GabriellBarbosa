@@ -1,1 +1,2 @@
-<h2>Hi! I'm a Full Stack Engineer</h2>
+<h2>Hi👋 I'm Gabriel <br /> Full Stack Engineer</h2>
+<p>Building modern web applications with React, Next.js, Node.js, and PostgreSQL.</p>
